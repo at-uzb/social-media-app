@@ -1,6 +1,6 @@
 # Social Media App
 
-This is a social media application built with **Django** for the backend and **React** for the frontend. The app allows users to authenticate, create posts, and engage with content through likes and comments.
+This is a social media application built with **Django** for the backend and **React** for the frontend. The app allows users to authenticate with codes sent to email, create posts, and engage with content through likes and comments.
 
 ## Features
 - **User Authentication**: Secure sign-up and login functionality.
