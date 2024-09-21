@@ -17,4 +17,4 @@ This is a social media application built with **Django** for the backend and **R
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/at-uzb/social-media-app.git
